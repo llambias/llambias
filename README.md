@@ -19,7 +19,7 @@
 
 <p align="center">
 📧 <b>Email:</b> <a href="mailto:agustn.llambias@uc.cl">agustn.llambias@uc.cl</a><br>
-💼 <b>LinkedIn:</b> <a href="www.linkedin.com/in/agustín-llambías-a1a287319">FAgustin Llambias</a><br>
+💼 <b>LinkedIn:</b> <a href="www.linkedin.com/in/agustín-llambías-a1a287319">Agustin Llambias</a><br>
 📍 <b>Ubicación:</b> Santiago, Chile
 </p>
 
