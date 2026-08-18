@@ -8,8 +8,8 @@
 <p align="center">
 - 🎓 <b>Estudiante de Ingeniería Civil en Computación</b> en la Pontificia Universidad Católica de Chile<br>
   - Mayor en Ingeniería Robotica<br>
-- 🤖 <b>Desarrollador de Robotica</b> Experiencia en ROS2<br>
-- 💻 <b>Desarrollador backend</b> Especialisado en javascript experiencia con koa, postgresql<br>
+- 🤖 <b>Desarrollador de Robotica</b> Experiencia en ROS2 en python y C++<br>
+- 💻 <b>Desarrollador backend</b> Experiencia principalmente trabajando con javascript en frameworks como Node js y Express<br>
 
 </p>
 
